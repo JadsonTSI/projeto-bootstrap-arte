@@ -72,7 +72,7 @@ a,i {
 
 .main-image {
     height: 400px;
-    background-image: url('../img/g_1.jpg');
+    background-image: url('./img/g_1.jpg');
     margin-bottom: 30px;
     position: relative;
 }
